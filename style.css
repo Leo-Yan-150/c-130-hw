@@ -1,0 +1,45 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0;
+}
+.note{
+    font-size:15px;
+    color:azure;
+}
+body{
+    background-size:cover;
+}
+.header2{
+    text-align:center;
+    font-size:20px;
+}
+canvas{
+    border: 2px solid white;
+    margin-top: 150px;
+}
+.spon{
+    border: 5px lightskyblue solid;
+    background-color:white;
+    margin-left:25px;
+    padding:15px;
+}
+.botton2{
+    margin-left: 5px;
+    margin-bottom:3px;
+}
+.botton{
+    margin-bottom:3px;
+}
+.spon2{
+    border: 5px orange solid;
+    background-color:white;
+    margin-left:25px;
+    padding:15px;
+}
+.spon3{
+    border: 5px orangered solid;
+    background-color:white;
+    margin-left:25px;
+    padding:15px;
+}
